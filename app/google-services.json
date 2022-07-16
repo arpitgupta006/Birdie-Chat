@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1045539317009",
+    "project_id": "birdie-chat-f66b8",
+    "storage_bucket": "birdie-chat-f66b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045539317009:android:9a91f204f99d579eaa98b0",
+        "android_client_info": {
+          "package_name": "com.example.birdiechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045539317009-ieuuq5svdquk9c03gse2f3t7ml94e1k2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO6VT3FXRaGvJBousXIG6Nq_2jdUsSbBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045539317009-ieuuq5svdquk9c03gse2f3t7ml94e1k2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
